@@ -1,0 +1,10 @@
+20160818-4 sox /data/jwkang/121420-CUHK-JCCOCC-MoCA/WaveList/iPhone/iPhone_MoCA_0031/20160818-4.wav -t wav - rate -I 16k | 
+20160822-4 sox /data/jwkang/121420-CUHK-JCCOCC-MoCA/WaveList/iPhone/iPhone_MoCA_0031/20160822-4.wav -t wav - rate -I 16k | 
+20160823-1 sox /data/jwkang/121420-CUHK-JCCOCC-MoCA/WaveList/iPhone/iPhone_MoCA_0031/20160823-1.wav -t wav - rate -I 16k | 
+20160824-1 sox /data/jwkang/121420-CUHK-JCCOCC-MoCA/WaveList/iPhone/iPhone_MoCA_0031/20160824-1.wav -t wav - rate -I 16k | 
+20160825-01 sox /data/jwkang/121420-CUHK-JCCOCC-MoCA/WaveList/iPhone/iPhone_Mocha_0033/20160825-01.wav -t wav - rate -I 16k | 
+20160826-4 sox /data/jwkang/121420-CUHK-JCCOCC-MoCA/WaveList/iPhone/iPhone_MoCA_0031/20160826-4.wav -t wav - rate -I 16k | 
+20160829-4 sox /data/jwkang/121420-CUHK-JCCOCC-MoCA/WaveList/iPhone/iPhone_MoCA_0031/20160829-4.wav -t wav - rate -I 16k | 
+20160830-4 sox /data/jwkang/121420-CUHK-JCCOCC-MoCA/WaveList/iPhone/iPhone_MoCA_0031/20160830-4.wav -t wav - rate -I 16k | 
+20160831-3 sox /data/jwkang/121420-CUHK-JCCOCC-MoCA/WaveList/iPhone/iPhone_MoCA_0031/20160831-3.wav -t wav - rate -I 16k | 
+20160901-1 sox /data/jwkang/121420-CUHK-JCCOCC-MoCA/WaveList/iPhone/iPhone_MoCA_0031/20160901-1.wav -t wav - rate -I 16k | 
